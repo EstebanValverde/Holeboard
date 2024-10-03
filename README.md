@@ -1,5 +1,4 @@
 # Holeboard for mice behavior
-A 4 x 4 grid of holes with infrared sensors to detect behavioral patterns in mice
+The holeboard test (HBT), using a dual-beam infrared system, tracks the behavior (anxiety, stress, neophilia, emotionality) of rodents on a 4x4 grid of holes. Each time the rodent inspects a hole, the device records it, measures the time of the event and its duration, and stores it in a micro SD memory for later analysis. In addition, the device has a TTL-type logic output to synchronize with a video tracking system that records the animal's movement on the grid. As a novelty, this particular HBT has a manual adjustment of the detection threshold and a reading of the grid's basal level. This, on the one hand, allows it to be independent of ambient light conditions, and on the other, to adjust the sensitivity in the detection of an inspection.
 
-This device was developed in IFIBIO "Houssay", a research institute from CONICET-UBA, Argentina.
-This device is licensed. For commercial interest, please contact to Esteban Valverde to [IFIBIO "Houssay"](https://ifibio-uba.conicet.gov.ar/contacto-2/)
+![IMG_20240130_110221](https://github.com/user-attachments/assets/16bdcaec-c9ce-45e0-9ba6-117389eac72d)
